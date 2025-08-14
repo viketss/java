@@ -22,6 +22,8 @@ public class Prueba2 {
         */
 
         // EJ: pedir la edad de todos los del aula
+        // NEW
+        // crea un nuevo objeto -->  escanner, arreglo, etc en memoria
         Scanner ingresoDeDato = new Scanner(System.in);
         int cantidad = 4; //en el aula hay 61
         int edades; //inicializar variable para guardar las edades
